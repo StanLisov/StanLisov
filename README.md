@@ -1,4 +1,5 @@
-Hellow! I have experience in installing, configuring and maintaining equipment such as:
+HARD SKILLS:
+Experienced in installing, configuring and maintaining equipment such as:
 - Smart boards;
 - Printers;
 - MFPS;
@@ -29,18 +30,21 @@ Possess the following skills:
 - Cloning of data drives;
 - Creation of el. keys, signatures;
 - Working with Elpost, SBSIS software;
+- Development of Telegram-bots;
+- Development of simple AI;
 - Conversational and technical English at ~ B1 level.
 
-Trained in training institution skills:
+Trained at a training facility in the skills of:
 - Equipment Setup;
 - Surface mounting of electronics;
 - Internal wiring of electronics;
 - 3D modeling;
 - Microcontroller Programming;
 - Drawing;
-- Reading and drawing of electronic circuits.
+- Reading and drafting electronic circuits.
 
-Personal qualities:
+SOFT SKILLS:
+Personal Qualities:
 - Fast learner;
 - Initiative;
 - Responsible;
@@ -49,6 +53,11 @@ Personal qualities:
 - Polite;
 - Sociable;
 - Friendly;
+- Perfectionist;
+- Willing to learn from scratch;
 - Non-conflicted.
 
-By nature a perfectionist, so I try to do everything as good as possible. Ready to learn something from scratch.
+In addition:
+- Rich knowledge of the video game industry;
+- Extensive knowledge of the board game industry;
+- Strong desire to work in IT, Board Games or Video Game industry.
